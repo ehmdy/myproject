@@ -1,0 +1,16 @@
+/* Main Style Page */
+
+/* Style for the head */
+head {
+    color: blue;
+}
+
+/* Style for the page background */
+body {
+    background-color: red;
+    background-image: url('flower-theme.jpg'); /* Replace with the path to your flower theme image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white; /* Optional: Adjust text color for better contrast */
+}
