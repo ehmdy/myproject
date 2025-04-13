@@ -9,7 +9,12 @@ h1 {
     color: #0bdb62;
 }
 h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 20px;
     color: blue;
+
 }
 
 /* Style for the page background */
